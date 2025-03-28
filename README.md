@@ -1,4 +1,4 @@
-# 🖥️ Instalador automático de OCS Inventory NG en Ubuntu 22.04
+# 🖥️ Instalador automático de OCS Inventory NG 2.12.3 en Ubuntu 22.04
 
 Este script instala y configura automáticamente **OCS Inventory NG Server 2.12.3** sobre Ubuntu 22.04, incluyendo todas sus dependencias, configuración del servidor Apache y base de datos MySQL/MariaDB.
 
