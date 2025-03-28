@@ -30,6 +30,7 @@ sudo apt install -y apache2 mariadb-server \
 php php-mysql php-xml php-curl php-mbstring php-zip php-soap php-intl php-gd php-json \
 libapache2-mod-perl2 libapache-dbi-perl libapache-db-perl libarchive-zip-perl \
 libdbd-mysql-perl libmojolicious-perl libswitch-perl libplack-perl \
+libxml-simple-perl libnet-ip-perl \
 make build-essential wget
 
 # Aumentar límites de subida de PHP
